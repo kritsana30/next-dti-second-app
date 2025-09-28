@@ -6,7 +6,7 @@ export default function Page() {
     <>
       <MenuBar />
       <h1 className="text-center">Welcome to DTI-SAU</h1>
-      <h1 className="text-center font-bold text-green-800">
+      <h1 className="text-center font-bold  text-green-800">
         Kritsana Rachasuth
       </h1>
       <hr/>
